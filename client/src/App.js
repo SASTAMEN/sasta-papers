@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import Register from './pages/Register/Register';
 import Login from './pages/Login/Login';
-
+import NavBar from './components/NavBar/navBar';
 function App() {
   return (
     <Router>
